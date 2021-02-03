@@ -1,0 +1,3 @@
+services:
+  dahromy\HealthCheckBundle\Controller\HealthController:
+    autoconfigure: true
